@@ -14,6 +14,8 @@ The application contains 9 modules:
 - Employee management
 - Financial statements
 
+The language used in the application is Serbian.
+
 ### How to start using FATALITI?
 
 1. Download the folder **Program**

@@ -1,6 +1,6 @@
 ![Cover Photo](https://cdn.shopify.com/s/files/1/0070/7032/files/GettyImages-1129810557_HEADER.jpg?v=1587764021&width=1024)
 
-### FATALITI - Bookkeeping Application in Excel
+### FATALITI - Bookkeeping Application in Excel (VBA)
 
 FATALITI is a bookkeeping application that contains all necessary functionalities to keep books of your company in Serbia.
 
